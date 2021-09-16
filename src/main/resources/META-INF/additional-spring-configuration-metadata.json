@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "dimension",
+      "type": "java.lang.Integer",
+      "description": "Description for hopfield.dimension."
+  }
+] }
